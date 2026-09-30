@@ -1,0 +1,6 @@
+[ {
+  "id" : 1,
+  "titulo" : "A Origem",
+  "genero" : "Ficção Científica",
+  "anoLancamento" : 2010
+} ]
